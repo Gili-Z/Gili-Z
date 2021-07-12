@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gili-Z
 - 👀 I’m interested in math, physics, and computer science.
 - 🌱 I’m currently learning apps script integration with git.
-- 💞️ I’m looking to collaborate on prjects related to google calendar.
+- 💞️ I’m looking to collaborate on projects related to google calendar.
 - 📫 How to reach me: gili4prez@gmail.com
 
 <!---
